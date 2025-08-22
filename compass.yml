@@ -1,0 +1,13 @@
+name: PSClassUtils
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/f8ec2f5e-e016-48ed-8e32-a74fecf83b00
+description: A set of utilities to work with Powershell Classes
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
